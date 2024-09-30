@@ -1,1 +1,1 @@
-Some basic C# projects made in shcool
+Some basic C# projects made in school
